@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Medium
+- 🔭 I’m currently working in Cognizant as Data Scientist 
+- 🌱 I’m exploring Deep Learning
+- 👯 I’m a blogger on Medium
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about ML or any tech related stuff.
 - 📫 How to reach me: Linkedin -https://www.linkedin.com/in/jane-alam-90824396/ , Medium - https://alam-jane61.medium.com/
