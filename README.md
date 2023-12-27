@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Cognizant as Data Scientist 
-- 🌱 I’m exploring Deep Learning
+- 🔭 I’m currently working in Birlasoft as Sr. Data Scientist 
+- 🌱 I’m exploring Gen AI
 - 👯 I’m a blogger on Medium
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about ML or any tech related stuff.
