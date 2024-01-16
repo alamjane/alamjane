@@ -1,15 +1,13 @@
-### Hola, I am Jane Alam 👋
+Hello!👋 I'm Jane Alam, a Data Scientist who loves to unravel stories 📖 hidden in data. Over the past 4.5 years, I've developed strong skills in Python, GenAI, Tensorflow and beyond, that aid me in creating impactful solutions for tech powerhouses like Birlasoft and Cognizant.
 
+But that's not all! I also specialize in gathering and processing raw data 📊, identifying trends and turning them into actionable insights. Communication, especially translating technical jargon into digestible content, is one of my strong suits.
 
-Here are some ideas to get you started:
+✔ Expertise in Machine Learning and AI
 
-- 🔭 I’m currently working in Birlasoft as Sr. Data Scientist 
-- 🌱 I’m exploring Gen AI
-- 👯 I’m a blogger on Medium
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about ML or any tech related stuff.
-- 📫 How to reach me: Linkedin -https://www.linkedin.com/in/jane-alam-90824396/ , Medium - https://alam-jane61.medium.com/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 4 hours learning data science & interview preparation everyday
+✔ Proficient in Generative AI, NLP and Power BI/Tableau
 
-<img src="https://github-readme-stats.vercel.app/api?username=alamjane&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+✔ Proven experience in Python and associated libraries
+
+✔ Excellent track record with multiple data-driven projects
+
+I continuously strive to leverage data to enhance efficiency and make informed decisions. Got a complex data problem? I’m all ears. 🙋‍♀️I love connecting with other data enthusiasts. Feel free to check out my projects on Github - https://github.com/alamjane
